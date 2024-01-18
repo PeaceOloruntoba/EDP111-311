@@ -1,0 +1,15 @@
+*{
+    padding: 2px;
+    font-size: 24px;
+}
+.index{
+    display: grid;
+}
+a{
+    text-decoration: underline;
+    color: black;
+}
+footer{
+    margin-top: 12px;
+    font-weight: 700;
+}
